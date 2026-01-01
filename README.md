@@ -31,12 +31,12 @@ Attention This Program is "as is" so that means if anything happens to your acco
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minecraft-afk-bot.git
+git clone https://github.com/Gragograg/minecraft-afk-bot.git
 cd minecraft-afk-bot
 npm install
 ```
 
---
+---
 
 ## Usage
 
