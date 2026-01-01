@@ -5,6 +5,8 @@ Lightweight Minecraft AFK bot built with Node.js and mineflayer.
 This project was made as a educational usage, not a bypass
 or exploit.
 
+Attention This Program is "as is" so that means if anything happens to your account even if it is (Server ban, Stolen information, etc.) i am not responsable for any harm and this program has no "secret code" to do any backdoor
+
 ---
 
 ## Features
@@ -23,6 +25,17 @@ or exploit.
 - A server that allows bot connections
 
 ---
+
+## Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/minecraft-afk-bot.git
+cd minecraft-afk-bot
+npm install
+
+--
 
 ## Usage
 
