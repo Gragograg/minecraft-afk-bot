@@ -39,6 +39,15 @@ npm install
 
 ## Usage
 
-- node bot.js "server url" "port" "microsoft account/username" "microsoft/offline"
+- node bot.js <host> [port] <username/email> [offline|microsoft]
 - For program side commands you should use "/" followed by the command.
 - For server side commands you use "//" followed by the command
+- CLI Commands
+```bash help        Show available commands
+ status      Show bot health, food, and connection state
+ jump on     Enable anti-AFK jumping
+ jump off    Disable anti-AFK jumping
+ reconnect   Force reconnect
+ disconnect  Disconnect from server
+ clear       Clear the console
+ exit        Cleanly exit the bot
