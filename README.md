@@ -33,7 +33,8 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/YOUR_USERNAME/minecraft-afk-bot.git
 cd minecraft-afk-bot
-npm install ```bash
+npm install
+```bash
 
 --
 
