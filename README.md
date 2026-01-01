@@ -34,7 +34,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/YOUR_USERNAME/minecraft-afk-bot.git
 cd minecraft-afk-bot
 npm install
-```bash
+```
 
 --
 
