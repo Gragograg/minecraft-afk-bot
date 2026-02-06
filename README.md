@@ -40,7 +40,7 @@ npm install
 
 ## Usage
 
-- node bot.js <host> [port] <username/email> [offline|microsoft]
+- node bot.js [host] [port] <username/email> [offline|microsoft]
 - For program side commands you should use "/" followed by the command.
 - For server side commands you use "//" followed by the command
 - CLI Commands
